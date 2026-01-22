@@ -1,0 +1,7 @@
+{
+  "name": "FreshScan AI - MLOps Produce Analysis",
+  "description": "A production-grade real-time fruit and vegetable freshness detection system using computer vision, MLflow tracking, and a modern React frontend.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
